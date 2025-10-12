@@ -50,7 +50,9 @@ form {
   flex-direction: column;
 }
 
-form input, form select, form button {
+form input,
+form select,
+form button {
   margin-bottom: 1rem;
   padding: 0.5rem;
   font-size: 1rem;
@@ -100,7 +102,9 @@ form button:hover {
 }
 
 /* Headings */
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   margin-bottom: 1rem;
   color: #3f51b5;
   text-align: center;
